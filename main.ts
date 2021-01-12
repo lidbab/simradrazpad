@@ -1,5 +1,5 @@
 let met = 0
-for (let index = 0; index <= 8; index++) {
+for (let index = 0; index <= 49; index++) {
     met = randint(0, 1)
     basic.showNumber(index)
     if (met == 0) {
